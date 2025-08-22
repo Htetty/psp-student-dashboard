@@ -13,6 +13,7 @@
     "@supabase/ssr": "^0.6.1",
     "@supabase/supabase-js": "^2.55.0",
     "canvas-confetti": "^1.9.3",
+    "clsx": "^2.1.1",
     "next": "15.4.6",
     "react": "19.1.0",
     "react-circular-progressbar": "^2.2.0",
